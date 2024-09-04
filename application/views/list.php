@@ -53,7 +53,7 @@
 				</tbody>
 			</table>
 		</div>
-		<a href="<?php echo base_url('note/logout'); ?>">Logout</a>
+		<button><a href="<?php echo base_url('note/logout'); ?>">Logout</a></button>
 	</div>
 
 </body>
